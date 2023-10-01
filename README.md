@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pratyushh-1
-- 👀 I’m interested in Programming. Just started college (fall '22) so I have begun to pursue my hobby and goal
-- 🌱 I’m currently learning Java, Data Structures nd Algorithm
-- 💞️ I like to play basketball and badminton
+- 👀 I’m interested in Programming.
+- 🌱 I’m currently learning Java, Data Structures and Algorithms
+- 💞️ I like to play basketball, badminton and table tennis
 - 📫 How to reach me - INSTAGRAM @pratyushh1
